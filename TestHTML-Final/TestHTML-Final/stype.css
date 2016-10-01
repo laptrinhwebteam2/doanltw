@@ -1,0 +1,27 @@
+.show-grid [class^="col-"]{
+	padding-top: 10px;
+	pading-bottom: 10px;
+	background-color: #eee;
+	border: 1px solid #ddd;
+	background-color: rgba(86,61,124,.15);
+	border: 1px solid rgba(86,61,124,.2);
+}
+.LichNgay{
+	color:#27408B;
+}
+.time{
+	font-size: 18px;
+	margin-top: 35px;
+}
+body{
+	font-family: times;
+}
+.namemonthweek{
+	font-size: 18px;
+	width: 110px
+}
+.oweek{
+	font-weight: bold;
+	width: 110px;
+	height: 150px
+}
